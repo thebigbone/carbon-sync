@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httpclient (2.9.0)
+      mutex_m
+    mutex_m (0.3.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  httpclient
+
+BUNDLED WITH
+   2.6.8
